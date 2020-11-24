@@ -14,22 +14,6 @@ I've implemented it based on a Flutter online course (Alura:https://cursos.alura
 - A specific folder to custom widgets
 - Tested in Android and iOS
 
-Screenshots
+- Screenshots:
 
-Dashboard
-
-<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout1.png" height="500" />
-
-Product Dateil
-
-<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout2.png" height="500" />
-
-
-Product Dateil
-
-<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout3.png" height="500" />
-
-
-Shop Detail
-
-<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout4.png" height="500" />
+<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout1.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout2.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout3.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout4.png" height="500" />

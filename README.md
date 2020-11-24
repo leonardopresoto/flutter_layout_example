@@ -17,18 +17,19 @@ I've implemented it based on a Flutter online course (Alura:https://cursos.alura
 Screenshots
 
 Dashboard
-<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout1.png" height="300" />
+
+<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout1.png" height="500" />
 
 Product Dateil
-![layout 2][layout2]
+
+<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout2.png" height="500" />
+
 
 Product Dateil
-![layout 3][layout3]
+
+<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout3.png" height="500" />
+
 
 Shop Detail
-![layout 4][layout4]
 
-
-[layout2]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout2.png
-[layout3]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout3.png
-[layout4]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout4.png
+<img src="https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout4.png" height="500" />

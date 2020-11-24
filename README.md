@@ -2,7 +2,7 @@
 
 A project to simulate a furniture shop app.
 
-I was intending to develop an app with little more complex layout
+I intended to develop an app with a little more complex layout
 
 I've implemented it based on a Flutter online course (Alura:https://cursos.alura.com.br/course/flutter-layout-aplicacao)
 

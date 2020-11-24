@@ -30,7 +30,7 @@ Shop Detail
 
 
 
-[layout1]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout1.png
+[layout1]: (https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout1.png | height=100)
 [layout2]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout2.png
 [layout3]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout3.png
 [layout4]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout4.png

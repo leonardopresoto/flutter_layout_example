@@ -16,8 +16,21 @@ I've implemented it based on a Flutter online course (Alura:https://cursos.alura
 
 Screenshots
 
-![Reflectly hero image][Reflectly hero image]
+Dashboard
+![layout 1][layout1]
+
+Product Dateil
+![layout 2][layout2]
+
+Product Dateil
+![layout 3][layout3]
+
+Shop Detail
+![layout 4][layout4]
 
 
 
-[Reflectly hero image]: https://github.com/flutter/website/blob/master/src/images/homepage/reflectly-hero-600px.png
+[layout 1]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout1.png
+[layout 2]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout2.png
+[layout 3]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout3.png
+[layout 4]: https://github.com/leonardopresoto/flutter_layout_example/blob/main/screenshots/layout4.png
